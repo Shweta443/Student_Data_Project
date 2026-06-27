@@ -1,2 +1,2 @@
 # Student_Data_Project
-Data manipulation and analysis using panda
+Data manipulation and analysis using pandas
