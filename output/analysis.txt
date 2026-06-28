@@ -1,0 +1,2 @@
+avg_marks: 66.56179999999999
+avg_attendance: 75.122
